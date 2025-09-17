@@ -1,1 +1,1 @@
-this is lecture 1 content again
+this bug is fixed
